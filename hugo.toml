@@ -1,0 +1,6 @@
+baseURL = 'https://kachrad.xyz/'
+languageCode = 'en-us'
+title = "Yassine Kachrad's website"
+disableKinds = ['taxonomy', 'term']
+[markup.goldmark.renderer]
+  unsafe = true
